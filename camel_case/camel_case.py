@@ -1,6 +1,6 @@
 '''
 Camel Case Kata Challenge
-Example camel_case('hello case') => 'HelloCase'
+Example camel_case('hello case') => 'helloCase'
 
 Written by ByronJayJee
 Dec 4, 2018
